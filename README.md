@@ -3,10 +3,10 @@
 - 👀 I’m interested in working with lots of DATA.
 - 🌱 I’m currently brushingup my skills on PowerBI for data Analysis, Python, C programming Languges, Project Management.
 - 💞️ I’m looking to collaborate to work on different projects
-- 📫 REACH ME - prudhvikatha@outlook.com
+- 📫 REACH ME by - <a href="mailto:prudhvikatha@outlook.com">Sending an email</a>
 
 <br>
-  <div> For more details check out: <a href="https://linktr.ee/prudhvinath" target="_blank">Prudhvi K</a></div>
+  <div> For more details check out: </div><a href="https://linktr.ee/prudhvinath" target="_blank">Prudhvi K</a>
 
 <!---
 prudhvinathreddy/prudhvinathreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
