@@ -6,7 +6,7 @@
 - 📫 REACH ME - prudhvikatha@outlook.com
 
 <br>
-  <div> For more details check out: <a href="https://linktr.ee/prudhvinath">Prudhvi K</a></div>
+  <div> For more details check out: <a href="https://linktr.ee/prudhvinath" target="_blank">Prudhvi K</a></div>
 
 <!---
 prudhvinathreddy/prudhvinathreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
