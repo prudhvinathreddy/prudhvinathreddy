@@ -7,7 +7,8 @@
 
 - 📫 <a href="mailto:prudhvikatha@outlook.com">EMAIL ME</a>
 
-- :bookmark: [Download my Resume](https://github.com/prudhvinathreddy/prudhvinathreddy/files/14108451/Resume.v.03.pdf)
+- :bookmark: [Download my Resume](https://github.com/user-attachments/files/17585039/Professional.Resume.v3.pdf)
+
 <br>
   <div> For more details check out: </div><a href="https://linktr.ee/prudhvinath" target="_blank">Prudhvi K</a>
 
