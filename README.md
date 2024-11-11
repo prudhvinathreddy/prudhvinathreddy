@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @prudhvinathreddy
-- 🌱 LEARN | DEVELOP | DELIVER
-- 👀 I am a Big Data developer, Data Analyst, Engineer
-- 🌱 Currently brushingup my skills on PowerBI for data Analysis,
-- 💞️ Project Management, 
-- 💞️ Actively looking to collaborate to work on different projects
+- Hi, I’m @prudhvinathreddy
+- LEARN | DEVELOP | DELIVER
+- Big Data developer, Data Analyst, Engineer
+- Currently brushingup my skills on PowerBI for data Analysis
+- Project Management
+- Actively looking to collaborate to work on different projects
 
 - 📫 <a href="mailto:prudhvikatha@outlook.com">EMAIL ME</a>
 
