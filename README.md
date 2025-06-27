@@ -1,6 +1,6 @@
 - Hi, I’m @prudhvinathreddy
 - LEARN | DEVELOP | DELIVER
-- Full Stack Java Developer, Angular, React, Oracle
+- Full Stack Java Developer, Springboot, Angular, React, Oracle, SQL
 - Currently brushingup my skills on React, API, Databases for Java development
 - Project Management
 - Actively looking to collaborate to work on different projects
